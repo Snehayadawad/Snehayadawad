@@ -1,9 +1,11 @@
 ## Hi I'm Sneha
 
 <!--
+**
+Here are some ideas to get you started:
 **Computer Science Engineering Student | Learning Artificial Intelligence & Machine Learning | Building Projects and Sharing My Learning Journey
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
