@@ -1,5 +1,11 @@
 ## Hi I'm Sneha yadawad👋
-** Computer Science Engineering Student | Learning Artificial Intelligence & Machine Learning | Building Projects and Sharing My Learning Journey
+# Computer Science Engineering Student | Learning Artificial Intelligence & Machine Learning | Building Projects and Sharing My Learning Journey
+
+# 🌟About Me
+I'm a Computer Science Engineering student 
+
+I'm currently building my skills step by step by learning programming fundamentals, exploring machine learning and deep learning concepts, and working on practical projects. I enjoy turning what I learn into projects and documenting my progress along the way.
+
 
 
 <!--
