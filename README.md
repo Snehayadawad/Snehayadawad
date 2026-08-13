@@ -59,19 +59,11 @@ I enjoy learning by doing — working on projects, experimenting with code, anal
 
 ### 📊 Student Data Analysis
 
-Repository:
+Repository:[https://github.com/Snehayadawad/Data-Analysis/blob/main/Case_Study_Student.ipynb]
 
 A beginner-friendly data analysis project focused on exploring student-related data, cleaning datasets, identifying patterns, and creating meaningful visualizations using Python.
 
 **Tools:** Python, Pandas, NumPy, Matplotlib, Seaborn
-
----
-
-### 🏠 House Price Prediction
-
-A machine learning project that explores how different property features can be used to predict house prices.
-
-**Tools:** Python, Pandas, Scikit-learn, Matplotlib
 
 ---
 
