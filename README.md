@@ -103,6 +103,8 @@ A deep learning project that uses a neural network to recognize handwritten digi
 
 ### 🎬 Movie Review Sentiment Analysis
 
+Repository:[https://github.com/Snehayadawad/Deep-Learning/blob/main/IMDB.ipynb]
+
 A Natural Language Processing project designed to classify movie reviews as positive or negative.
 
 **Model:** Bidirectional LSTM
@@ -145,19 +147,10 @@ My goal isn't just to collect repositories — it's to **show my growth from beg
 
 ---
 
-## 📫 Let's Connect
-
-I'm always interested in learning, building, and connecting with other students and developers interested in technology.
-
-⭐ Feel free to explore my repositories and follow my learning journey!
-
----
 
 ### 💡 "Small progress every day leads to big results."
 
-**Thanks for visiting my GitHub profile! 🚀**
 
- 
 
 
 
