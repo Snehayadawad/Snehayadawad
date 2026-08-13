@@ -79,6 +79,8 @@ A K-Means clustering project that groups customers based on their income and spe
 
 ### 🌸 Iris Flower Classification
 
+Repository:[https://github.com/Snehayadawad/Machine-Learning/blob/main/Iris_setosa.ipynb]
+
 A classification project using the famous Iris dataset to predict flower species from their measurements.
 
 **Models:** Logistic Regression, Decision Tree
