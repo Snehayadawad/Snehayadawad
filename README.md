@@ -69,6 +69,8 @@ A beginner-friendly data analysis project focused on exploring student-related d
 
 ### 👥 Customer Segmentation
 
+Repository:[https://github.com/Snehayadawad/Machine-Learning/blob/main/Customer%20Segmentation.ipynb]
+
 A K-Means clustering project that groups customers based on their income and spending behavior.
 
 **Concepts:** Unsupervised Learning, Feature Scaling, K-Means, Elbow Method
