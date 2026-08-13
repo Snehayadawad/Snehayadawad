@@ -1,7 +1,7 @@
-## Hi there 👋
+## Hi I'm Sneha
 
 <!--
-**Snehayadawad/Snehayadawad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Science Engineering Student | Learning Artificial Intelligence & Machine Learning | Building Projects and Sharing My Learning Journey
 
 Here are some ideas to get you started:
 
