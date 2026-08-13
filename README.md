@@ -91,6 +91,8 @@ A classification project using the famous Iris dataset to predict flower species
 
 ### 🧠 Handwritten Digit Recognition
 
+Repository:[https://github.com/Snehayadawad/Deep-Learning/blob/main/mnist.ipynb]
+
 A deep learning project that uses a neural network to recognize handwritten digits from the MNIST dataset.
 
 **Tools:** Python, TensorFlow, Keras
